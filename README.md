@@ -1,7 +1,6 @@
 # alx-frontend-for-fun
 
 
-
 ## Author
 
 <!-- twitter -->
